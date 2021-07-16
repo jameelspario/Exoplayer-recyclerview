@@ -1,0 +1,2 @@
+rootProject.name = "Exoplayer recyclerview"
+include ':app'
